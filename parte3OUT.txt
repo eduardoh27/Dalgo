@@ -1,0 +1,1 @@
+Un orden topológico para el grafo es: [6, 3, 7, 1, 5, 2, 0, 4].
